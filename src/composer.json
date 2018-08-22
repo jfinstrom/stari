@@ -1,0 +1,16 @@
+{
+    "name": "jfinstrom/stari",
+    "description": "PHP client for use with the Asterisk(R) REST interface",
+    "type": "library",
+    "require": {
+        "cboden/ratchet": "^0.4.1",
+        "react/http": "^0.8.3"
+    },
+    "license": "AGPLv3",
+    "authors": [
+        {
+            "name": "James Finstrom",
+            "email": "jfinstrom@g3p0.xyz"
+        }
+    ]
+}
